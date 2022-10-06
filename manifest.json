@@ -1,0 +1,19 @@
+{
+  "name": "CosmosTask",
+  "description": "Главная страница платформы по продаже косметики",
+  "icons": [
+    {
+      "src": "images/icons/icon192.png",
+      "type": "image/png",
+      "sizes": "192х192"
+    },
+    {
+      "src": "images/icons/icon512.png",
+      "type": "image/png",
+      "sizes": "512х512"
+    }
+  ],
+  "theme_color":"#ffffff",
+  "background_color":"#ffffff",
+  "display":"standalone"
+}
